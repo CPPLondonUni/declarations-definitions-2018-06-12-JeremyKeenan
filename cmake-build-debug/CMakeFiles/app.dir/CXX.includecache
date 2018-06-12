@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeremykeenan/Documents/declarations-definitions-2018-06-12-JeremyKeenan/main.cpp
+iostream
+-
+string
+-
+utility.h
+/Users/jeremykeenan/Documents/declarations-definitions-2018-06-12-JeremyKeenan/utility.h
+
+/Users/jeremykeenan/Documents/declarations-definitions-2018-06-12-JeremyKeenan/utility.cpp
+utility.h
+/Users/jeremykeenan/Documents/declarations-definitions-2018-06-12-JeremyKeenan/utility.h
+
+/Users/jeremykeenan/Documents/declarations-definitions-2018-06-12-JeremyKeenan/utility.h
+iostream
+-
+string
+-
+
